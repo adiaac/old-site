@@ -2,9 +2,7 @@
 main:
   - title: "about me!"
     url: /about_me/
-    
   - title: "teaching"
     url: /teaching/
-
   - title: "cv"
     url: /cv/
