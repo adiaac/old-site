@@ -2,8 +2,8 @@
 main:
   - title: "about me!"
     url: /about_me/
-
-  - title: "teaching!""
+    
+  - title: "teaching"
     url: /teaching/
 
   - title: "cv"
