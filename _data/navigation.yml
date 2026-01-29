@@ -3,8 +3,8 @@ main:
   - title: "about me!"
     url: /about_me/
 
-  - title: "what i'm thinking about!"
-    url: /current_thinking/
+  - title: "teaching!""
+    url: /teaching/
 
   - title: "cv"
     url: /cv/
