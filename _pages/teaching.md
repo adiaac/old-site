@@ -1,6 +1,6 @@
 ---
 permalink: /teaching/
-title: "Teaching Overview!"
+title: "Teaching Overview"
 author_profile: true
 redirect_from: 
 
