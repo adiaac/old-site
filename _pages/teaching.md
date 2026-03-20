@@ -11,6 +11,8 @@ redirect_from:
 - Instructor: Hector P. Rodriguez
 - Graduate Student Instructor (Fall 2025)
 
+*Winner,  2026 Outstanding Graduate Student Instructor Award*
+
 Introduction to health administration, focusing on theories of management, organizations, and environments as they relate to the administration of health services. Cases, simulation, and structured experiences are used to tie theory to practice. Course includes MPH and MBA students.
 
 ## PHP 1680U: Intersectionality and Health Disparities
