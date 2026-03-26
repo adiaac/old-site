@@ -8,7 +8,7 @@ redirect_from:
 
 I am a fourth year doctoral student in Health Policy (Population and Data Science Track) at the University of California, Berkeley. I plan to graduate in Spring 2027.
 
-I consider how policy and market changes impact patient welfare, especially affordability and quality of care. My doctoral research centers two important topics of interest in healthcare research: 
+I consider how policy and market changes impact patient welfare, especially affordability and quality of care. My doctoral research centers two important topics of interest in healthcare services and policy: 
 
 1) Ownership of hospitals (for profit vs not-for-profit, private equity, etc.) and its impacts on patients, as well as impact of ownership change 
 
