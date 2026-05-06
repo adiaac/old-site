@@ -1,10 +1,9 @@
 ---
-layout: page
 permalink: /teaching/
-title: teaching
-description: Overview of my teachin experiences across UC Berkeley and Brown University.
-nav: true
-nav_order: 4
+title: "Teaching Overview"
+author_profile: true
+redirect_from: 
+
 ---
 
 ## PBHLTH 224W: Organizational Behavior and Management in Health Care
@@ -29,4 +28,3 @@ This course provides a broad overview of health disparities in the U.S., specifi
 - Undergraduate Teaching Assistant (Fall 2016); Head Teaching Assistant (Fall 2017)
 
 This is an advanced introduction to global public health, defining and critically examining key topics and concepts through an interdisciplinary lens. Undergraduate and master's level course.
-

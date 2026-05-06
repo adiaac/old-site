@@ -1,0 +1,10 @@
+# main links links
+main:
+  - title: "about me!"
+    url: /about_me/
+  - title: "cv"
+    url: /cv/
+  - title: "research"
+    url: /research/
+  - title: "teaching"
+    url: /teaching/
