@@ -9,12 +9,12 @@ redirect_from:
 # Current Projects
 I highlight my central workstreams during my doctoral studies below. My agenda uses my prior experience in health equity and applies these lenses to contemporary topics in health policy and services research. My overall agenda is funded by the Robert Wood Johnson Foundation's Health Policy Research Scholars and the UC Dissertation Year Fellowship and was previously supported by an AHRQ T32 Fellowship.
 
-## Surprise Billing and Medical Debt *[Dissertation, Job Market]*
+## Surprise Billing and Medical Debt *[Dissertation, Job Market Paper]*
 Surprise medical billing refers to charges incurred when insured patients unknowingly receive care from an out-of-network provider, often resulting in unexpectedly high bills reflecting out-of-network rates. This practice received considerable scrutiny from advocates, news outlets, and policymakers. To address this issue, several states implemented formal processes for settling out-of-network bills in the mid-to-late 2010s. While these laws were intended to reduce catastrophic financial impacts on patients receiving these bills, think tanks and researchers raised the possibility that these laws could inflate costs for OON care, which would then be passed onto patients by payers.
 
 I use a national 2% sample of credit report data from one of the major credit reporting agencies. I use a set of difference-in-differences estimators suited to the staggered implementation of these laws across seven states, using 18 states and DC, which had never implemented any laws restricting surprise billing before the No Surprises Act, as controls.  I find that the overall effects of the surprise billing laws implemented before the No Surprises Act increased the percentage of borrowers with any medical debt tradeline >$500. In analyses examining differences by payment benchmark, I found that states with payment benchmarks hypothesized to be inflationary experienced increased percentages of borrowers with any new medical debt. States with deflationary benchmarks experienced no such increase.
 
-***Funding***: Robert Wood Johnson Foundation - Health Policy Research Scholars Dissertation Award
+***Funding***: Robert Wood Johnson Foundation - Health Policy Research Scholars Dissertation Award, Horowitz Foundation for Social Policy Research Award
 
 ## Hospital Ownership and Medical Debt
 As part of a collaboration with Ambar La Forgia, Adam Leive, and Elena Prager (University of Rochester). In our first paper, we analyze how differences in hospital and health system characteristics may be associated with medical debt, leveraging markets with single owners to attribute debt to hospitals. 
